@@ -1,12 +1,12 @@
 <html>
 <body>
-<item url="http://www.animefc.net/?genre=Action" title="Action" ></item>
-<item url="http://www.animefc.net/?genre=Adventure" title="Adventure" ></item>
-<item url="http://www.animefc.net/?genre=Comedy" title="Comedy" ></item>
-<item url="http://www.animefc.net/?genre=Fantasy" title="Fantasy" ></item>
-<item url="http://www.animefc.net/?genre=Historical" title="Historical" ></item>
-<item url="http://www.animefc.net/?genre=Horror" title="Horror" ></item>
-<item url="http://www.animefc.net/?genre=Romance" title="Romance" ></item>
+<item url="http://www.animefc.net/?genre=Action&pos=" title="Action" ></item>
+<item url="http://www.animefc.net/?genre=Adventure&pos=" title="Adventure" ></item>
+<item url="http://www.animefc.net/?genre=Comedy&pos=" title="Comedy" ></item>
+<item url="http://www.animefc.net/?genre=Fantasy&pos=" title="Fantasy" ></item>
+<item url="http://www.animefc.net/?genre=Historical&pos=" title="Historical" ></item>
+<item url="http://www.animefc.net/?genre=Horror&pos=" title="Horror" ></item>
+<item url="http://www.animefc.net/?genre=Romance&pos=" title="Romance" ></item>
 </body>
 </html>
 
