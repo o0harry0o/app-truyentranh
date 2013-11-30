@@ -1,16 +1,16 @@
 
-
 <html>
 <body>
-<!--item url="http://kissanime.com/Genre/Adult/MostPopular" title="Adult" ></item>
-<item url="http://kissanime.com/Genre/Mature/MostPopular" title="Mature" ></item>-->
+<item url="adult" title="Adult" ></item>
+<item url="mature" title="Mature" ></item>
+<item url="18" title="18+" ></item>
 <item url="action" title="Action" ></item>
 <item url="adventure" title="Adventure" ></item>
 <item url="comedy" title="Comedy" ></item>
 <item url="drama" title="Drama" ></item>
 <item url="fantasy" title="Fantasy" ></item>
 <item url="16" title="16+" ></item>
-<!--item url="http://kissanime.com/Genre/Harem/MostPopular" title="Harem" ></item>-->
+<item url="harem" title="Harem" ></item>
 <item url="anime" title="Anime" ></item>
 <item url="ecchi" title="Ecchi" ></item>
 <item url="josei" title="Josei" ></item>
