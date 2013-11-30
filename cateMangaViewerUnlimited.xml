@@ -1,0 +1,35 @@
+<html>
+<body>
+<item url="adult" title="Adult" ></item>
+<item url="mature" title="Mature" ></item>
+<item url="18" title="18+" ></item>
+<item url="action" title="Action" ></item>
+<item url="adventure" title="Adventure" ></item>
+<item url="comedy" title="Comedy" ></item>
+<item url="drama" title="Drama" ></item>
+<item url="fantasy" title="Fantasy" ></item>
+<item url="16" title="16+" ></item>
+<item url="harem" title="Harem" ></item>
+<item url="anime" title="Anime" ></item>
+<item url="ecchi" title="Ecchi" ></item>
+<item url="josei" title="Josei" ></item>
+<item url="gender" title="Gender" ></item>
+<item url="horror" title="Horror" ></item>
+<item url="historical" title="Historical" ></item>
+<item url="manhua" title="Manhua" ></item>
+<item url="manhwa" title="Manhwa" ></item>
+<item url="mystery" title="Mystery" ></item>
+<item url="oneshot" title="Oneshot" ></item>
+<item url="romance" title="Romance" ></item>
+<item url="tragedy" title="Tragedy" ></item>
+<item url="school-life" title="School" ></item>
+<item url="sci-fi" title="Sci-fi" ></item>
+<item url="seinen" title="Seinen" ></item>
+<item url="shoujo" title="Shoujo" ></item>
+<item url="shoujo-ai" title="Shoujo Ai" ></item>
+<item url="shounen" title="Shounen" ></item>
+<item url="shounen-ai" title="Shounen Ai" ></item>
+<item url="sports" title="Sports" ></item>
+<item url="supernatural" title="Supernatural" ></item>
+</body>
+</html>
