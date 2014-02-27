@@ -1,22 +1,22 @@
 <html>
 <body>
-<item url="adult" title="Adult" ></item>
-<item url="mature" title="Mature" ></item>
-<item url="18" title="18+" ></item>
-<item url="action" title="Action" ></item>
-<item url="adventure" title="Adventure" ></item>
-<item url="comedy" title="Comedy" ></item>
-<item url="drama" title="Drama" ></item>
-<item url="fantasy" title="Fantasy" ></item>
-<item url="16" title="16+" ></item>
-<item url="harem" title="Harem" ></item>
-<item url="anime" title="Anime" ></item>
-<item url="ecchi" title="Ecchi" ></item>
-<item url="josei" title="Josei" ></item>
-<item url="gender" title="Gender" ></item>
-<item url="horror" title="Horror" ></item>
-<item url="historical" title="Historical" ></item>
-<item url="manhua" title="Manhua" ></item>
+<item url="2" title="Adult" ></item>
+<item url="20" title="Mature" ></item>
+<item url="45" title="18+" ></item>
+<item url="1" title="Action" ></item>
+<item url="3" title="Adventure" ></item>
+<item url="5" title="Comedy" ></item>
+<!--item url="drama" title="Drama" ></item>
+<item url="fantasy" title="Fantasy" ></item>-->
+<item url="54" title="16+" ></item>
+<item url="12" title="Harem" ></item>
+<item url="4" title="Anime" ></item>
+<item url="48" title="Ecchi" ></item>
+<!--item url="josei" title="Josei" ></item>
+<item url="gender" title="Gender" ></item>-->
+<item url="14" title="Horror" ></item>
+<item url="13" title="Historical" ></item>
+<!--item url="manhua" title="Manhua" ></item>
 <item url="manhwa" title="Manhwa" ></item>
 <item url="mystery" title="Mystery" ></item>
 <item url="oneshot" title="Oneshot" ></item>
@@ -30,6 +30,6 @@
 <item url="shounen" title="Shounen" ></item>
 <item url="shounen-ai" title="Shounen Ai" ></item>
 <item url="sports" title="Sports" ></item>
-<item url="supernatural" title="Supernatural" ></item>
+<item url="supernatural" title="Supernatural" ></item>-->
 </body>
 </html>
