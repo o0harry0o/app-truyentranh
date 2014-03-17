@@ -1,0 +1,33 @@
+{
+    "Item" = ({
+        Bundle = "<null>";
+        Track = {
+            Artist = {
+                name = Dido;
+                "name_kana" = "aa";
+            };
+            Package = {
+                Artist = {
+                    name = Dido;
+                    "name_kana" = "aa";
+                };
+                "disc_no" = 1;
+                "img_url" =
+                    "http://srvb0w.mti.ne.jp/yg_uta/data/j_320/jp-20152151.jpg";
+                name = "aa";
+                "name_kana" = "aa";
+                release = "";
+                track = 4;
+            };
+            "content_type" = "audio/mp4";
+            "download_enable" = 1;
+            "download_url" =
+                "https://my-api.music.jp/v3/1002/tracks/download/6966b33b-27ae-4b10-a0e9-93f594755657";
+            "fileupdate_date" = "2013-12-11 11:10:05";
+            name = "aa";
+            "purchase_date" = "2013-12-11 11:10:05";
+            token = "6966b33b-27ae-4b10-a0e9-93f594755657";
+        };
+    });
+    resultCount = 1;
+}
