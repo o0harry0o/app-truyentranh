@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fullBanner</key>
+	<string>112</string>
+	<key>banner</key>
+	<string>112</string>
+	<key>url</key>
+	<string>https://itunes.apple.com/us/app/chat-stickers-free-for-imessage/id1082175662?ls=1&amp;mt=8</string>
+	<key>update_message</key>
+	<string>New version is available! Do your want to get it now?</string>
+	<key>ads</key>
+	<string>0</string>
+	<key>version</key>
+	<string>1.0</string>
+	<key>show</key>
+	<string>0</string>
+</dict>
+</plist>
