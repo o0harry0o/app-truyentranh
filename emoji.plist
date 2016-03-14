@@ -15,6 +15,6 @@
 	<key>version</key>
 	<string>1.0</string>
 	<key>show</key>
-	<string>0</string>
+	<string>1</string>
 </dict>
 </plist>
