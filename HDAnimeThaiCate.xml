@@ -2,7 +2,7 @@
 <body>
 <item url="http://www.miruanime.net/sos/page/%d/?s_cats=ecchi&s_status=none&s_lang=none&s_rate=none&s_year=none&s_type=none" title="Ecchi" ></item>
 <item url="http://www.miruanime.net/sos/page/%d/?s_cats=action&s_status=none&s_lang=none&s_rate=none&s_year=none&s_type=none" title="Action" ></item>
-<item url="http://www.miruanime.net/sos/page/%d/?s_cats=advanture&s_status=none&s_lang=none&s_rate=none&s_year=none&s_type=none" title="Adventure" ></item>
+<item url="http://www.miruanime.net/sos/page/%d/?s_cats=adventure&s_status=none&s_lang=none&s_rate=none&s_year=none&s_type=none" title="Adventure" ></item>
 <item url="http://www.miruanime.net/sos/page/%d/?s_cats=comedy&s_status=none&s_lang=none&s_rate=none&s_year=none&s_type=none" title="Comedy" ></item>
 <item url="http://www.miruanime.net/sos/page/%d/?s_cats=drama&s_status=none&s_lang=none&s_rate=none&s_year=none&s_type=none" title="Drama" ></item>
 <item url="http://www.miruanime.net/sos/page/%d/?s_cats=fantasy&s_status=none&s_lang=none&s_rate=none&s_year=none&s_type=none" title="Fantasy" ></item>
@@ -12,7 +12,5 @@
 <item url="http://www.miruanime.net/sos/page/%d/?s_cats=horror&s_status=none&s_lang=none&s_rate=none&s_year=none&s_type=none" title="Horror" ></item>
 <item url="http://www.miruanime.net/sos/page/%d/?s_cats=mystery&s_status=none&s_lang=none&s_rate=none&s_year=none&s_type=none" title="Mystery" ></item>
 <item url="http://www.miruanime.net/sos/page/%d/?s_cats=romance&s_status=none&s_lang=none&s_rate=none&s_year=none&s_type=none" title="Romance" ></item>
-<item url="http://www.miruanime.net/sos/page/%d/?s_cats=yaoi&s_status=none&s_lang=none&s_rate=none&s_year=none&s_type=none" title="Yaoi" ></item>
-<item url="http://www.miruanime.net/sos/page/%d/?s_cats=sport&s_status=none&s_lang=none&s_rate=none&s_year=none&s_type=none" title="Sport" ></item>
 </body>
 </html>
